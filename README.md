@@ -1,2 +1,2 @@
 # TEMPLATE-scale-via-SVG
-use svg as a container to scale whole page
+Use svg as a container to scale whole page, centered vertically and horizontally 
